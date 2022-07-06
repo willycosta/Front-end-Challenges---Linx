@@ -6,9 +6,9 @@ O desafio consistia no desenvolvimento de um *layout* de uma *landing page* com 
 
 **Endpoint da API**: https://frontend-intern-challenge-api.iurykrieger.now.sh/products?page=1
 
-### Layout
+<h1> As regras para construção do layout eram: </h1>
 
-As regras para construção do layout eram:
+### Layout
 
 Você terá que implementar o *layout* de acordo com esse **[mock](https://xd.adobe.com/spec/4025e242-a495-4594-71d2-5fd89d774b57-3614)**. O *mock* contém a estrutura do layout e todo o estilo da página.
 
